@@ -1,7 +1,7 @@
 # auto-plugin
 浏览器自动流程插件（automa  https://github.com/AutomaApp/automa)
 
-### Install dependencies
+Install dependencies
 ```bash
 yarn install
 ```
@@ -14,32 +14,32 @@ export default function() {
 }
 ```
 
-### Compiles and hot-reloads for development for the chrome browser
+Compiles and hot-reloads for development for the chrome browser
 ```bash
 yarn dev
 ```
 
-### Compiles and minifies for production for the chrome browser
+Compiles and minifies for production for the chrome browser
 ```bash
 yarn build
 ```
 
-### Create a zip file from the build folder
+Create a zip file from the build folder
 ```bash
 yarn build:zip
 ```
 
-### Compiles and hot-reloads for development for the firefox browser
+Compiles and hot-reloads for development for the firefox browser
 ```bash
 yarn dev:firefox
 ```
 
-### Compiles and minifies for production for the firefox browser
+Compiles and minifies for production for the firefox browser
 ```bash
 yarn build:firefox
 ```
 
-### Lints and fixes files
+Lints and fixes files
 ```bash
 yarn lint
 ```
