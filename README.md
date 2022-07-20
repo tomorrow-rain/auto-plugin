@@ -18,6 +18,7 @@ Compiles and hot-reloads for development for the chrome browser
 ```bash
 yarn dev
 ```
+执行后，打开浏览器 chrome://extensions/，然后打开开发者模式，将项目下生成的build文件夹拖入，即可调试。
 
 Compiles and minifies for production for the chrome browser
 ```bash
