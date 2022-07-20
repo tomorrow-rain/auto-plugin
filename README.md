@@ -43,3 +43,7 @@ Lints and fixes files
 ```bash
 yarn lint
 ```
+
+提交时避开eslint的检测机制报错：
+git commit --no-verify -m "提交时的注释"
+
